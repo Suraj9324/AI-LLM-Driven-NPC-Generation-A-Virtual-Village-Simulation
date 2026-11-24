@@ -1,0 +1,7 @@
+back_end/.env
+__pycache__/
+psc
+.env
+test.py
+configuration.json
+dataTypes.txt
